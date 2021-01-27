@@ -6,13 +6,6 @@
 <h3>1.1 Implementar função para calcular fatorial de um número:</h3>
 
 ```
-using System;
-
-namespace luby_incubadora
-{
-    class Program
-    {
-
         public void CalcularFatorial(int n)
         {
             int[] fatoriais = new int[n];
@@ -34,6 +27,41 @@ namespace luby_incubadora
             Program p = new Program();
             p.CalcularFatorial(Convert.ToInt32(x));
         }
-    }
-}
 ```
+
+<h3>1.2 Implementar função que calcula o valor total do prêmio somando fator do tipo do prêmio conforme valores:</h3>
+
+```
+        public void CalcularPremio(float valor_premio, string tipo_premio, int? param_proprio)
+        {
+            if (param_proprio != null && param_proprio > 0)
+            {
+                valor_premio *= Convert.ToInt32(param_proprio);
+                Console.WriteLine("O valor calculado do prêmio é: {0}", valor_premio);
+            }
+            else if (param_proprio == null)
+            {
+                switch (tipo_premio)
+                    {
+                    case "basic":
+                        valor_premio *= 1;
+                        break;
+                    case "vip":
+                        valor_premio *= 1.2f;
+                        break;
+                    case "premium":
+                        valor_premio *= 1.5f;
+                        break;
+                    case "deluxe":
+                        valor_premio *= 1.8f;
+                        break;
+                    case "special":
+                        valor_premio *= 2;
+                        break;
+                }
+                Console.WriteLine("O valor calculado do prêmio é: {0}", valor_premio);
+            }
+        }
+```
+
+<h3>1.3 a:</h3>
