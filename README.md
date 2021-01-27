@@ -7,12 +7,33 @@
 
 ```
 using System;
-				
-public class Program
+
+namespace luby_incubadora
 {
-	public static void Main()
-	{
-		Console.WriteLine("Hello World");
-	}
+    class Program
+    {
+
+        public void CalcularFatorial(int n)
+        {
+            int[] fatoriais = new int[n];
+            int fatorial = n;
+            for (int i = 0; i <= n - 1; i++)
+            {
+                fatoriais[i] = n - i;
+            }
+            for (int i = 1; i < n-1; i++)
+            {
+                fatorial *= fatoriais[i];
+            }
+            Console.WriteLine("O resultado é:\n{0}", fatorial);
+        }
+        static void Main()
+        {
+            Console.WriteLine("Insira um número para calcular sua fatoração:");
+            string x = Console.ReadLine();
+            Program p = new Program();
+            p.CalcularFatorial(Convert.ToInt32(x));
+        }
+    }
 }
 ```
