@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace luby_incubadora11
+namespace Exercicio11
 {
     class Exercicio11
     {
@@ -17,11 +17,6 @@ namespace luby_incubadora11
                 fatorial *= fatoriais[i];
             }
             return fatorial;
-        }
-        static void Main()
-        {
-            Exercicio11 p = new Exercicio11();
-            Console.WriteLine(p.CalcularFatorial(5));
         }
     }
 }
