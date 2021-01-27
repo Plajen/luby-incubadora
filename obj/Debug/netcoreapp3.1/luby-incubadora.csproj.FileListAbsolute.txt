@@ -1,0 +1,13 @@
+C:\Users\jean_\source\repos\luby-incubadora\bin\Debug\netcoreapp3.1\luby-incubadora.exe
+C:\Users\jean_\source\repos\luby-incubadora\bin\Debug\netcoreapp3.1\luby-incubadora.deps.json
+C:\Users\jean_\source\repos\luby-incubadora\bin\Debug\netcoreapp3.1\luby-incubadora.runtimeconfig.json
+C:\Users\jean_\source\repos\luby-incubadora\bin\Debug\netcoreapp3.1\luby-incubadora.runtimeconfig.dev.json
+C:\Users\jean_\source\repos\luby-incubadora\bin\Debug\netcoreapp3.1\luby-incubadora.dll
+C:\Users\jean_\source\repos\luby-incubadora\bin\Debug\netcoreapp3.1\luby-incubadora.pdb
+C:\Users\jean_\source\repos\luby-incubadora\obj\Debug\netcoreapp3.1\luby-incubadora.csprojAssemblyReference.cache
+C:\Users\jean_\source\repos\luby-incubadora\obj\Debug\netcoreapp3.1\luby-incubadora.AssemblyInfoInputs.cache
+C:\Users\jean_\source\repos\luby-incubadora\obj\Debug\netcoreapp3.1\luby-incubadora.AssemblyInfo.cs
+C:\Users\jean_\source\repos\luby-incubadora\obj\Debug\netcoreapp3.1\luby-incubadora.csproj.CoreCompileInputs.cache
+C:\Users\jean_\source\repos\luby-incubadora\obj\Debug\netcoreapp3.1\luby-incubadora.dll
+C:\Users\jean_\source\repos\luby-incubadora\obj\Debug\netcoreapp3.1\luby-incubadora.pdb
+C:\Users\jean_\source\repos\luby-incubadora\obj\Debug\netcoreapp3.1\luby-incubadora.genruntimeconfig.cache
