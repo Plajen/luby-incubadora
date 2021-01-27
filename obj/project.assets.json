@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jean_\\Source\\Repos\\luby-incubadora\\luby-incubadora.csproj",
-      "projectName": "luby-incubadora",
-      "projectPath": "C:\\Users\\jean_\\Source\\Repos\\luby-incubadora\\luby-incubadora.csproj",
+      "projectUniqueName": "C:\\Users\\jean_\\Source\\Repos\\luby-incubadora\\Exercicio12.csproj",
+      "projectName": "Exercicio12",
+      "projectPath": "C:\\Users\\jean_\\Source\\Repos\\luby-incubadora\\Exercicio12.csproj",
       "packagesPath": "C:\\Users\\jean_\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jean_\\Source\\Repos\\luby-incubadora\\obj\\",
       "projectStyle": "PackageReference",
