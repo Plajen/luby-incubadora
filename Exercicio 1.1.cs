@@ -3,7 +3,7 @@ using System.Diagnostics;
 
 namespace luby_incubadora
 {
-    class Exercicio12
+    class Exercicio11
     {
         public double CalcularPremio(double valor_premio, string tipo_premio, double? param_proprio)
         {
@@ -41,7 +41,7 @@ namespace luby_incubadora
         }
         static void Main()
         {
-            Exercicio12 p = new Exercicio12();
+            Exercicio11 p = new Exercicio11();
             Debug.Assert(p.CalcularPremio(100, "basic", null) == 100.00);
             Debug.Assert(p.CalcularPremio(100, "vip", null) == 120.00);
             Debug.Assert(p.CalcularPremio(100, "premium", null) == 150.00);
