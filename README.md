@@ -4,14 +4,16 @@
 <h2>1. Lógica de Programação</h2>
 
 <h3>1.1 Implementar função para calcular fatorial de um número:</h3>
-<code>
-	using System;
+<pre>
+	<code>
+		using System;
 
-	public class Program
-	{
-		public static void Main()
+		public class Program
 		{
-			Console.WriteLine("Hello World");
+			public static void Main()
+			{
+				Console.WriteLine("Hello World");
+			}
 		}
-	}
-</code>
+	</code>
+</pre>
