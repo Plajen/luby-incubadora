@@ -5,12 +5,12 @@
 
 <h3>1.1 Implementar função para calcular fatorial de um número:</h3>
 <code>
-using System;
-					
-public class Program
-{
-	public static void Main()
+	using System;				
+	public class Program
 	{
-		Console.WriteLine("Hello World");
+		public static void Main()
+		{
+			Console.WriteLine("Hello World");
+		}
 	}
-}</code>
+</code>
