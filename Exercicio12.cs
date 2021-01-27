@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-namespace luby_incubadora
+namespace luby_incubadora12
 {
     class Exercicio12
     {
