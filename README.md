@@ -6,7 +6,7 @@
 <h3>1.1 Implementar função para calcular fatorial de um número:</h3>
 <pre>
 	<code>
-		using System;
+	using System;
 
 		public class Program
 		{
