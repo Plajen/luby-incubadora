@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Exercicio11
+namespace lubyincubadora
 {
-    class Exercicio11
+    class Exercicio11 // Exercício 1.1
     {
         public int CalcularFatorial(int n)
         {

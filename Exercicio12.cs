@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Exercicio12
+namespace lubyincubadora
 {
-    class Exercicio12
+    class Exercicio12 // Exercício 1.2
     {
         public double CalcularPremio(double valor_premio, string tipo_premio, double? param_proprio)
         {

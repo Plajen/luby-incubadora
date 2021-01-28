@@ -1,15 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Exercicio13
+namespace lubyincubadora
 {
-    class Exercicio13
+    class Exercicio13 // Exercício 1.3
     {
         public int ContarNumerosPrimos(int n)
         {
             int[] numeros = new int[n];
             List<int> primos = new List<int>();
-            int qnt_primos = 0;
             for (int i = 0; i <= n - 1; i++)
             {
                 numeros[i] = n - i;
@@ -25,7 +24,7 @@ namespace Exercicio13
                     primos.Add(numeros[i]);
                 }
             }
-            qnt_primos = primos.Count;
+            int qnt_primos = primos.Count;
             return qnt_primos;
         }
     }
