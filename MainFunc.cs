@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace MainFunc
+namespace lubyincubadora
 {
     class MainFunc // Função Main, executada ao abrir o programa
     {
