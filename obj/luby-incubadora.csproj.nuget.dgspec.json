@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jean_\\Source\\Repos\\luby-incubadora\\luby-incubadora.csproj": {}
+    "C:\\Users\\jean_\\source\\repos\\luby-incubadora\\luby-incubadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jean_\\Source\\Repos\\luby-incubadora\\luby-incubadora.csproj": {
+    "C:\\Users\\jean_\\source\\repos\\luby-incubadora\\luby-incubadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jean_\\Source\\Repos\\luby-incubadora\\luby-incubadora.csproj",
+        "projectUniqueName": "C:\\Users\\jean_\\source\\repos\\luby-incubadora\\luby-incubadora.csproj",
         "projectName": "luby-incubadora",
-        "projectPath": "C:\\Users\\jean_\\Source\\Repos\\luby-incubadora\\luby-incubadora.csproj",
+        "projectPath": "C:\\Users\\jean_\\source\\repos\\luby-incubadora\\luby-incubadora.csproj",
         "packagesPath": "C:\\Users\\jean_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jean_\\Source\\Repos\\luby-incubadora\\obj\\",
+        "outputPath": "C:\\Users\\jean_\\source\\repos\\luby-incubadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jean_\\AppData\\Roaming\\NuGet\\NuGet.Config",
